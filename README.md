@@ -6,15 +6,6 @@ This repository contains the code and resources associated with our paper titled
 
 <img src="assets/overview.png" width="60%" align=center />
 
-## Training
-
-- Train the model with default arguments by running
-
-```
-python train.py
-The pretrained weights from [HERE](https://1drv.ms/f/s!Al2dMJC6HUgQrJJ7oQyrDZz-FgY9Cw?e=IuqkUC).
-```
-
 ## Test
 
 python test.py
@@ -24,28 +15,6 @@ python test.py
 ### Quantitative fusion results
 
 <img src="assets//MSRS.png" width="60%" align=center />
-
-<img src="assets/RoadScene.png" width="60%" align=center />
-
-<img src="assets/TNO.png" width="60%" align=center />
-
-### Quantitative fusion results
-
-Infrared-Visible Image Fusion
-
-<img src="image//Quantitative_IVF.png" width="60%" align=center />
-
-Medical Image Fusion
-
-<img src="image//Quantitative_MIF.png" width="60%" align=center />
-
-MM detection
-
-<img src="image//MMDet.png" width="60%" align=center />
-
-MM segmentation
-
-<img src="image//MMSeg.png" width="60%" align=center />
 
 ### Semantic segmentation evaluation Results
 
